@@ -1,3 +1,4 @@
+// client side code
 let noteTitle;
 let noteText;
 let saveNoteBtn;
